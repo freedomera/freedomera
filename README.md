@@ -1,5 +1,4 @@
 # 🇰🇷 Klare 🐲
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2freedomera)](https://hits.seeyoufarm.com) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freedomera&show_icons=true&theme=radical)
 <!-- [![CodeForces Profile](https://cf.leed.at?id=Klare_)](https://codeforces.com/profile/Klare_) -->
